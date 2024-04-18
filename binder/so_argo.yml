@@ -3,17 +3,17 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - cartopy=0.21.1=py38hfbf152b_0
-  - conda-lock=2.5.6=pyhd8ed1ab_0
-  - gsw=3.6.17=py38h7092abf_1
-  - jupyterlab=3.6.3=py38hecd8cb5_0
-  - matplotlib=3.7.1=py38hecd8cb5_1
-  - numpy=1.24.3=py38h57a7bef_0
-  - pandas=1.5.3=py38h07fba90_0
-  - python=3.8.17=h5ee71fb_0
-  - scikit-learn=1.2.2=py38hcec6c5f_1
-  - scipy=1.9.3=py38h9034365_2
-  - seaborn=0.12.2=py38hecd8cb5_0
-  - tqdm=4.65.0=py38h01d92e1_0
-  - xarray=2022.11.0=py38hecd8cb5_0
-prefix: /Users/Michael/miniconda3/envs/so_argo
+  - cartopy=0.21.1
+  - conda-lock=2.5.6
+  - gsw=3.6.17
+  - jupyterlab=3.6.3
+  - matplotlib=3.7.1
+  - numpy=1.24.3
+  - pandas=1.5.3
+  - python=3.8.17
+  - scikit-learn=1.2.2
+  - scipy=1.9.3
+  - seaborn=0.12.2
+  - tqdm=4.65.0
+  - xarray=2022.11.0
+
