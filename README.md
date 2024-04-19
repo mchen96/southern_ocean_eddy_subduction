@@ -1,4 +1,8 @@
 # Southern Ocean Eddy Subduction
+[![DOI(https://zenodo.org/badge/787440746.svg)](https://zenodo.org/doi/10.5281/zenodo.10999661)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchen96/southern_ocean_eddy_subduction/main)
+
 Code used in Chen and Schofield (2024): "Spatial and Seasonal Controls on Eddy Subduction in the Southern Ocean"
 
 ## Contents
