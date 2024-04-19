@@ -10,7 +10,7 @@ Code used in Chen and Schofield (2024): "Spatial and Seasonal Controls on Eddy S
   a. ESP\_anomalies.pkl <br>
   b. profile\_summaries.pkl <br>
   c. ts\_allprofiles.pkl <br>
-2. figures 
+2. figures <br>
   a. Figures 1-4 <br>
   b. Figures S1-S5 <br>
   c. Example FSLE field used in Figure 1 <br>
