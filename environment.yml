@@ -17,4 +17,6 @@ dependencies:
   - matplotlib=3.7.1
   - conda-lock
   - pip
+  - pip
+    - motuclient
 prefix: /Users/Michael/miniconda3/envs/so_argo
