@@ -9,7 +9,7 @@ Code used in Chen and Schofield (2024): "Spatial and Seasonal Controls on Eddy S
     - SOCCOM BGC-Argo floats
     - Altimetry-derived Finite-size Lyapunov Exponents from AVISO+
     
-![](https://github.com/mchen96/southern_ocean_eddy_subduction/fsle_gif/fsle_gif.gif)
+![](https://github.com/mchen96/southern_ocean_eddy_subduction/blob/main/fsle_gif/fsle_gif.gif)
 
 ## Contents
 #### Notebooks
