@@ -1,0 +1,39 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Oceanography",
+    "author": [
+        {
+            "id": "https://orcid.org/0000-0002-3865-8436",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Department of Marine and Coastal Sciences, Rutgers University"
+            },
+            "email": "mchen62442@gmail.com",
+            "familyName": "Chen",
+            "givenName": "Michael"
+        }
+    ],
+    "codeRepository": "https://github.com/mchen96/southern_ocean_eddy_subduction",
+    "dateCreated": "2024-04-22",
+    "dateModified": "2024-04-19",
+    "description": "Code used in Chen and Schofield (2024): \"Spatial and Seasonal Controls on Eddy Subduction in the Southern Ocean\"",
+    "funder": {
+        "type": "Organization",
+        "name": "NASA"
+    },
+    "keywords": [
+        "Carbon export",
+        "submesoscale dynamics",
+        "BGC-Argo",
+        "Finite-sive Lyapunov Exponents",
+        "Southern Ocean"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Southern Ocean Eddy Subduction",
+    "operatingSystem": "macOS",
+    "programmingLanguage": "Python 3.8.17",
+    "version": "1.0.0",
+    "funding": "80NSSC22K1451"
+}

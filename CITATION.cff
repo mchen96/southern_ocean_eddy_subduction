@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Southern Ocean Eddy Subduction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Michael
+    family-names: Chen
+    email: mchen62442@gmail.com
+    affiliation: Rutgers University
+    orcid: 'https://orcid.org/0000-0002-3865-8436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10999662
+    description: Zenodo
+repository-code: 'https://github.com/mchen96/southern_ocean_eddy_subduction'
+abstract: >-
+  Code used in Chen and Schofield (2024): "Spatial and
+  Seasonal Controls on Eddy Subduction in the Southern
+  Ocean"
+license: MIT
