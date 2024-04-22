@@ -16,10 +16,9 @@ Code used in Chen and Schofield (2024): "Spatial and Seasonal Controls on Eddy S
 1. detection.ipynb
 2. figures.ipynb
 #### Data
+Minimal data files are included that allow you to generate figures <br>
 1. SOCCOM_GO-BGC_LoResQC_LIAR_28Aug2023_netcdf <br>
-  - Minimal data files are included that allow you to generate figures
 2. fsles <br>
-  - Minimal data files are included that allow you to generate figures 
 #### Notebook outputs
 1. outputs <br>
   a. ESP\_anomalies.pkl <br>
